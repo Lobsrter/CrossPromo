@@ -1,0 +1,1 @@
+{"gameName":"","storeLink":"https://play.google.com/store/apps/details?id=com.COOLGAMES.BrainRotCaseSimulator","imageUrls":["https://github.com/Lobsrter/CrossPromo/blob/main/BrainRotMeme.png"]}
